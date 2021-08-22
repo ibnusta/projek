@@ -1,0 +1,38 @@
+{
+  "name": "Ibnustagnz",
+  "short_name": "Ibnustagnz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1971e5",
+  "description": "Website Untuk Sekolah Online Pemrograman - Kotlin,Python,Flutter,Vue,Git,Electron,Mechine-Learning",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/PGHdVHJ4LQIZaG7M_9vuvgACmiVRiVx34Ph_4lghj2XBxaWLYpOFUG2ww0ro-71DcKNvHlTSTmtv6joFLA=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
